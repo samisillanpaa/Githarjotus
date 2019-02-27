@@ -1,0 +1,1 @@
+console.log('Viel olis yks juttu: .. HAista paska!')
