@@ -1,0 +1,3 @@
+#MyApp  
+
+Ensimmäinen Git harjoitus
